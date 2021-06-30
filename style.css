@@ -6,7 +6,7 @@
 }
 nav{
     height:40px;
-    background-color: antiquewhite;
+    background-color:rgb(253, 237, 146);
     font-size: large;
     padding-top: 10px;
     padding-left: 30px;
@@ -20,16 +20,15 @@ ul{
     list-style-type:none;
 }
 body{
-    width:70%;
-   
+    width:90%;   
+    background-color:rgb(223, 247, 252);
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    background-color:white;
-    text-align: center;
 
 }
 #main{
-    width:95%;
+    width:100%;
     margin-left: auto;
     margin-right: auto;
     
